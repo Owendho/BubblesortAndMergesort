@@ -8,3 +8,12 @@ C:\Users\owend\Source\Repos\SortThis\SortThisShit\obj\Debug\SortThisShit.csproj.
 C:\Users\owend\Source\Repos\SortThis\SortThisShit\obj\Debug\SortThisShit.csproj.CoreCompileInputs.cache
 C:\Users\owend\Source\Repos\SortThis\SortThisShit\obj\Debug\SortThisShit.exe
 C:\Users\owend\Source\Repos\SortThis\SortThisShit\obj\Debug\SortThisShit.pdb
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\obj\Debug\SortThisShit.csprojAssemblyReference.cache
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\obj\Debug\SortThisShit.Form1.resources
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\obj\Debug\SortThisShit.Properties.Resources.resources
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\obj\Debug\SortThisShit.csproj.GenerateResource.cache
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\obj\Debug\SortThisShit.exe
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\obj\Debug\SortThisShit.pdb
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\bin\Debug\SortThisShit.exe.config
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\bin\Debug\SortThisShit.exe
+C:\Users\Owendho\Source\Repos\Owendho\BubblesortAndMergesort\SortThisShit\bin\Debug\SortThisShit.pdb
